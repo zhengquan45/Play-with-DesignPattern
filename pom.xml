@@ -14,10 +14,9 @@
         <module>Simple-Responsibility-Principle</module>
         <module>Law-Of-Demeter</module>
         <module>Interface-Segregation-Principle</module>
-        <module>Least-Knowledge-Principle</module>
         <module>Liskov-Substitution-Principle</module>
         <module>Composite-Reuse-Principle</module>
-        <module>AbstractFactory-DBPool</module>
+        <module>SIngleton-Pattern</module>
     </modules>
 
 
