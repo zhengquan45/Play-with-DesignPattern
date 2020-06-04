@@ -8,7 +8,7 @@ public class LazyInnerClassSingleton {
     }
 
     //调用静态方法一定会先加载静态内部类
-    public static LazyInnerClassSingleton getInstance(){
+    public static final LazyInnerClassSingleton getInstance(){
         return LazyHolder.LAZY;
     }
     //默认不加载
