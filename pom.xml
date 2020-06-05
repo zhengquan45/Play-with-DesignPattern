@@ -17,6 +17,8 @@
         <module>Liskov-Substitution-Principle</module>
         <module>Composite-Reuse-Principle</module>
         <module>SIngleton-Pattern</module>
+        <module>Prototype-Pattern</module>
+        <module>Proxy-Pattern</module>
     </modules>
 
 
