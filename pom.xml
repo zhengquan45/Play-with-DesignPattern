@@ -20,6 +20,7 @@
         <module>Prototype-Pattern</module>
         <module>Proxy-Pattern</module>
         <module>Delegate-Pattern</module>
+        <module>Strategy-Pattern</module>
     </modules>
 
 
