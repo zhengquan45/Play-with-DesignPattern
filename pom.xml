@@ -19,6 +19,7 @@
         <module>SIngleton-Pattern</module>
         <module>Prototype-Pattern</module>
         <module>Proxy-Pattern</module>
+        <module>Delegate-Pattern</module>
     </modules>
 
 
