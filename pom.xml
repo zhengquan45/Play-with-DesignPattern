@@ -21,6 +21,7 @@
         <module>Proxy-Pattern</module>
         <module>Delegate-Pattern</module>
         <module>Strategy-Pattern</module>
+        <module>Template-Method-Pattern</module>
     </modules>
 
 
