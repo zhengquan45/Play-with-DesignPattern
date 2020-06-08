@@ -23,6 +23,7 @@
         <module>Strategy-Pattern</module>
         <module>Template-Method-Pattern</module>
         <module>Adapter-Pattern</module>
+        <module>Decorator-Pattern</module>
     </modules>
 
 
