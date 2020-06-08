@@ -22,6 +22,7 @@
         <module>Delegate-Pattern</module>
         <module>Strategy-Pattern</module>
         <module>Template-Method-Pattern</module>
+        <module>Adapter-Pattern</module>
     </modules>
 
 
