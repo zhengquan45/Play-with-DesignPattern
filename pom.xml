@@ -24,6 +24,7 @@
         <module>Template-Method-Pattern</module>
         <module>Adapter-Pattern</module>
         <module>Decorator-Pattern</module>
+        <module>Observer-Pattern</module>
     </modules>
 
 
